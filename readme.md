@@ -2,6 +2,7 @@
 prolog life planner
 
 ## schedule tasks for:
+* `number(N).`
 * `member(DS,[YEARS,MONTHS,DAYS]).`
 * every `N` `DS` starting at `date/9`
 	* `hour`, `minute`, `second` should never need to change, and should be anonymised for optimisation unless dependencies exist
