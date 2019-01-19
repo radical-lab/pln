@@ -16,5 +16,5 @@ poker player predictions
 * every `NTH` day of the week starting at `date/9` **is** every `=(N,7)` `=(DS,DAYS)` starting at `date/9`
 
 ## life rules:
-* negative weather predictions = stock up on groceries
+* negative weather predictions = stock up on supplies
 * consumption of expired food = statistical probability of getting sick
