@@ -1,6 +1,8 @@
 # pln
 prolog life planner
 
+poker player predictions
+
 ## schedule tasks for:
 * `number(N).`
 * `member(DS,[YEARS,MONTHS,DAYS]).`
