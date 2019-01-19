@@ -12,3 +12,6 @@ prolog life planner
 * every `NTH` day of the month starting at `date/9`
 * every `NTH` weekday of the month starting at `date/9`
 * every `NTH` day of the week starting at `date/9` **is** every `=(N,7)` `=(DS,DAYS)` starting at `date/9`
+
+## life rules:
+* negative weather predictions = stock up on groceries
