@@ -15,3 +15,4 @@ prolog life planner
 
 ## life rules:
 * negative weather predictions = stock up on groceries
+* consumption of expired food = statistical probability of getting sick
