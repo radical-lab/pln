@@ -29,7 +29,7 @@ test :- true
 	, file_name(N)
 	, open(N,write,S)
 	, write(S,A)
-	, forall(meta(X), format(S,'~w.', [meta(X)]))
+	, forall(meta(X), format(S,'~w. ', [meta(X)]))
 	, close(S)
 	.
 %retract/1
