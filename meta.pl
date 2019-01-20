@@ -5,8 +5,7 @@
 :- dynamic meta/1.
 
 % https://rosettacode.org/wiki/Program_name
-% unsolved problem
-file_name('meta.pl').
+file_name(F) :- M=user,P=file_name(_),predicate_property(M:P,file(F)).
 
 % https://stackoverflow.com/a/4805709
 eos([], []).
