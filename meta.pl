@@ -5,7 +5,7 @@
 :- dynamic meta/1.
 
 % https://rosettacode.org/wiki/Program_name
-file_name(F) :- predicate_property(user:file_name(F),file(F)).
+file_name(F) :- M=user,P=file_name(_),predicate_property(M:P,file(F)), \+ predicate_property(M:P,imported_from(_)).
 
 % https://stackoverflow.com/a/4805709
 eos([], []).
