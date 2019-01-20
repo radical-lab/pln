@@ -6,11 +6,11 @@
 
 % https://rosettacode.org/wiki/Program_name#Prolog
 file_name(F) :- true
-   , M = user
-   , P = file_name(_)
-   , source_file(M:P, F)
-   , \+ predicate_property(M:P, imported_from(_))
-   .
+	, M = user
+	, P = file_name(_)
+	, source_file(M:P, F)
+	, \+ predicate_property(M:P, imported_from(_))
+	.
 
 % https://stackoverflow.com/a/4805709
 eos([], []).
