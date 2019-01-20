@@ -11,9 +11,9 @@ file_name('meta.pl').
 % https://stackoverflow.com/a/4805709
 eos([], []).
 line([10])   --> ("\n"; call(eos)), !.
-line([H|T])  --> [H], line(T).
-lines([])    --> call(eos), !.
-lines([H|T]) --> line(H), lines(T).
+line([H|T])  --> [H], line(T)        .
+lines([])    --> call(eos), !        .
+lines([H|T]) --> line(H), lines(T)   .
 
 file(A) :- true
 	, file_name(N)
