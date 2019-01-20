@@ -4,8 +4,13 @@
 %:- set_prolog_flag(double_quotes, chars).
 :- dynamic meta/1.
 
-% https://rosettacode.org/wiki/Program_name
-file_name(F) :- M=user,P=file_name(_),source_file(M:P,F), \+ predicate_property(M:P,imported_from(_)).
+% https://rosettacode.org/wiki/Program_name#Prolog
+file_name(F) :- true
+   , M = user
+   , P = file_name(_)
+   , source_file(M:P, F)
+   , \+ predicate_property(M:P, imported_from(_))
+   .
 
 % https://stackoverflow.com/a/4805709
 eos([], []).
