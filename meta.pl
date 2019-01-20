@@ -17,8 +17,8 @@ lines([H|T]) --> line(H), lines(T)   .
 file(A) :- true
 	, file_name(N)
 	, once(phrase_from_file(lines(L), N))
-	, append(A,[_],L)
-	, flatten(A,F)
+	, append(H,[_],L)
+	, flatten(H,F)
 	, atom_codes(A,F)
 	.
 
