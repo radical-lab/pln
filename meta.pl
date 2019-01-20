@@ -15,7 +15,7 @@ eos([], []).
 line([])      --> ("\n"; call(eos)), !.
 line([H|T])   --> [H], line(T).
 lines([])     --> call(eos), !.
-lines([L|LS]) --> line(L), lines(LS).
+lines([H|T]) --> line(H), lines(T).
 
 file(A) :- true
    , file_name(N)
