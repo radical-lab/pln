@@ -11,6 +11,8 @@ file_name(F) :- true
 	, source_file(M:P, F)
 	, \+ predicate_property(M:P, imported_from(_))
 	.
+%:- multifile(this_is_one_of_my_files). this_is_one_of_my_files.
+% findall(F,source_file(this_is_one_of_my_files,F),FileList).
 
 % https://stackoverflow.com/a/4805709
 eos([], []).
