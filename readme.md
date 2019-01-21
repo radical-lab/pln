@@ -9,8 +9,10 @@ poker player predictions
 * [ ] every `N` `DS` starting at `date/9`
 	* [ ] `HOUR`, `MINUTE`, `SECOND` should never need to change, and should be anonymised for optimisation processing unless dependencies exist
 	* [ ] 29ᵗʰ february; will goto 28ᵗʰ february during non leap years
-* [x] `=(T,[HOUR,MINUTE,SECOND]).`
+* [x] `=(T,[HOUR,MINUTE,SECOND]).`; where `time(T1) = time(T2)` is possible
 * [ ] between `time(T1)` and `time(T2)` every `N` `DS` starting at `date/9`
+* [ ] between `time(T1)` and `time(T2)` every `NTH` day of the month starting at `date/9`
+* [ ] between `time(T1)` and `time(T2)` every `NTH` weekday of the month starting at `date/9`
 * [ ] every `NTH` day of the month starting at `date/9`
 * [ ] every `NTH` weekday of the month starting at `date/9`
 * [ ] every `NTH` day of the week starting at `date/9` **is** every `=(N,7)` `=(DS,DAYS)` starting at `date/9`
