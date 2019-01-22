@@ -19,5 +19,5 @@ poker player predictions
 * [ ] some due dates can be scheduled earlier than due; due dates versus dead lines
 
 ## life rules:
-* [ ] negative weather predictions = stock up on supplies depending on the extremity of the predictions
+* [ ] negative weather predictions = stock up on supplies depending on the expected extremity/duration of the predictions
 * [ ] consumption of expired food = statistical probability of getting sick
