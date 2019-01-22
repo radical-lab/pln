@@ -16,6 +16,7 @@ poker player predictions
 * [ ] every `NTH` day of the month starting at `date/9`
 * [ ] every `NTH` weekday of the month starting at `date/9`
 * [ ] every `NTH` day of the week starting at `date/9` **is** every `=(N,7)` `=(DS,DAYS)` starting at `date/9`
+* [ ] some due dates can be scheduled earlier than due; due dates versus dead lines
 
 ## life rules:
 * [ ] negative weather predictions = stock up on supplies depeding on the extremity of the predictions
