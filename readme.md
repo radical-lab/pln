@@ -9,6 +9,7 @@ i am thinking about doing this as a [chatbot](https://github.com/Shyam-Has-Your-
 
 maybe rename to rpg for `/radical plann(ing|ers?) game/` where life is a game
 <br>alt g can be god named श्याम
+<br>alt g can be goals
 <br>alt g can be glados
 <br>alt g can be genie named jeannie with a dreamie theme
 <br>alt g can be girl for the memes including `melbi cmalu nixli ckule` and the `nani search` adventure game and …
