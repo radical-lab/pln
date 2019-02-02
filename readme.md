@@ -21,6 +21,7 @@
 * [ ] [order](https://en.wikipedia.org/wiki/Category:Languages_by_word_order)
 
 ## language agnostic instructions
+some bots may be busy performing `…` so `! @bot` will get their attention and they will let you know when they are ready based on the decidability of the time it will take to complete `…`
 * `!` i have something to say
 * `?` i have a query
 * `.` i (may) have an answer
