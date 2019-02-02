@@ -33,7 +33,7 @@
 * `x` is the total quantity of unresolved conflicts that may be self-resolvable
 * `y` is the total quantity of unresolved conflicts
 
-each chatbot will use the conflict resolution indicator as a communicative terminator but `/names` will list `chatbot(x/y)` 
+each bot will use the conflict resolution indicator as a communicative terminator but `/names` will list `name(x/y)` for bots and `name(∞/∞)` for the player
 
 ---
 
