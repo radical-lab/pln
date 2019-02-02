@@ -15,7 +15,7 @@ maybe rename to rpg for `/radical plann(ing|ers?) game/` where life is a game
 <br>girls from the queens in resident evil and alice in wonderland
 <br>conscious versus subconscious
 
-it will be like irc but different names will be for different chatbots
+it will be like irc but different names will be for different chatbots which can discuss with each other including pms
 <br>culturally themed polytheistic [gods](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you're_a_dog) could be used to manage different aspects of life and the universe and everything
 
 ## schedule tasks for:
