@@ -29,6 +29,12 @@
 * `name` talk about name (expect name to think while the unexpected is a possibility)
 * `@name` talk to name (expect name to act while the unexpected is a possibility)
 
+## conflict resolution indicator format
+
+`x/y` where
+* `x` is the total quantity of unresolved conflicts that may be self-resolvable
+* `y` is the total quantity of unresolved conflicts
+
 ---
 
 ## brainstorm
