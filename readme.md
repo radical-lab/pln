@@ -22,9 +22,10 @@
 
 ## language agnostic instructions
 
-* `!` \l
-* `?` \q or \a
-* `…` \m but this should happen in the background anyway #configurable
+* `!` i have something to say
+* `?` i have a query
+* `.` i have an answer
+* `…` i can wait but this should happen in the background anyway #configurable
 * `name` talk about name (expect name to think while the unexpected is a possibility)
 * `@name` talk to name (expect name to act while the unexpected is a possibility)
 
