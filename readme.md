@@ -1,6 +1,8 @@
 # radical planner g (it is not aversion)
 *can you satisfy your <s>goals</s> gods?*
 
+**usage:** `rpg roy:a_life_well_lived.cartridge`
+
 ## brainstorm
 
 poker player predictions
