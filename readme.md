@@ -20,6 +20,12 @@
 * [ ] [world](https://en.wikipedia.org/wiki/World_language#Living_world_languages)
 * [ ] [order](https://en.wikipedia.org/wiki/Category:Languages_by_word_order)
 
+## language agnostic instructions
+
+* `!` \l
+* `?` \q or \a
+* `…` \m but this should happen in the background anyway #configurable
+
 ---
 
 ## brainstorm
