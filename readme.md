@@ -1,4 +1,4 @@
-# radical planner g (it is not aversion)
+# √ radical planner g (it is not aversion)
 *can you satisfy your <s>goals</s> gods?*
 
 ## usage
