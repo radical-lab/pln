@@ -2,6 +2,7 @@
 prolog life planner
 
 poker player predictions
+<br>gamification
 
 i am thinking about doing this as a [chatbot](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/master/_implementation#L12-L75) but also file-based
 <br>`rpg roy:a_life_well_lived.cartridge`
