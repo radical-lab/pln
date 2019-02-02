@@ -1,6 +1,8 @@
 # √ radical planner g (it is not aversion)
 *can you satisfy your <s>goals</s> gods?
 <br>liars goto hell! (unless you spell the magic words (…<!--outliars can also spell them paradoxically which is cancellative-->…))*
+<br>score productivity points while competing against yourself for the sake of self-improvement
+<br>negativity lands you in limbo
 
 ## usage
 `rpg roy:a_life_well_lived.cartridge`
