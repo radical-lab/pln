@@ -21,7 +21,6 @@
 * [ ] [order](https://en.wikipedia.org/wiki/Category:Languages_by_word_order)
 
 ## language agnostic instructions
-
 * `!` i have something to say
 * `?` i have a query
 * `.` i (may) have an answer
@@ -30,10 +29,11 @@
 * `@name` talk to name (expect name to act while the unexpected is a possibility)
 
 ## conflict resolution indicator format
-
 `x/y` where
 * `x` is the total quantity of unresolved conflicts that may be self-resolvable
 * `y` is the total quantity of unresolved conflicts
+
+each chatbot will use the conflict resolution indicator as a communicative terminator but `/names` will list `chatbot(x/y)` 
 
 ---
 
