@@ -35,7 +35,7 @@ maybe rename to rpg for `/radical plann(ing|ers?) game/` where life is a game
 <br>alt g can be goals
 <br>alt g can be glados
 <br>alt g can be genie named jeannie with a dreamie theme
-<br>alt g can be girl for the memes including `melbi cmalu nixli ckule` and the `nani search` adventure game and …
+<br>alt g can be girl for the memes including `melbi cmalu nixli ckule` and the `nani search` [adventure game](http://www.amzi.com/AdventureInProlog/a1start.php) and …
 <br>girls from the queens in resident evil and alice in wonderland
 <br>conscious versus subconscious
 
