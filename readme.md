@@ -1,5 +1,6 @@
 # √ radical planner g (it is not aversion)
-*can you satisfy your <s>goals</s> gods?*
+*can you satisfy your <s>goals</s> gods?
+<br>liars goto hell! (unless you spell the magic words (…<!--outliars can also spell them paradoxically which is cancellative-->…))*
 
 ## usage
 `rpg roy:a_life_well_lived.cartridge`
