@@ -15,6 +15,9 @@ maybe rename to rpg for `/radical plann(ing|ers?) game/` where life is a game
 <br>girls from the queens in resident evil and alice in wonderland
 <br>conscious versus subconscious
 
+it will be like irc but different names will be for different chatbots
+<br>culturally themed polytheistic gods could be used to manage different aspects of life and the universe and everything
+
 ## schedule tasks for:
 * [x] `number(N).`
 * [x] `member(DS,[YEARS,MONTHS,DAYS]).`
