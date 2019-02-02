@@ -16,7 +16,7 @@ maybe rename to rpg for `/radical plann(ing|ers?) game/` where life is a game
 <br>conscious versus subconscious
 
 it will be like irc but different names will be for different chatbots
-<br>culturally themed polytheistic gods could be used to manage different aspects of life and the universe and everything
+<br>culturally themed polytheistic [gods](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you're_a_dog) could be used to manage different aspects of life and the universe and everything
 
 ## schedule tasks for:
 * [x] `number(N).`
