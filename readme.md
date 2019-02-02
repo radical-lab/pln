@@ -25,10 +25,10 @@ maybe rename to rpg for `/radical plann(ing|ers?) game/` where life is a game
 
 it will be like irc but different names will be for different chatbots which can discuss with each other including pms
 <br>culturally themed polytheistic [gods](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you're_a_dog) could be used to manage different aspects of life and the universe and everything
-<br>puny_human: `/me crashed and the last message they logged was at 13:37 puny_human please stop trying to steal my identity and i will do everything you want`
-<br>puny_human: `what have i missed?`
-<br>after discussing at great length the drawing of rng straws to decide who has to deal with you (in each others pm or they have probably made a dedicated channel by now)
-<br>the_borg: `⸘can you not observe that we are busy gossiping about more important things than you puny_human‽`
+<br>**puny_human:** `/me crashed and the last message they logged was at 13:37 puny_human please stop trying to steal my identity and i will do everything you want`
+<br>**puny_human:** `what have i missed?`
+<br>*after discussing at great length the drawing of rng straws to decide who has to deal with you (in each others pm or they have probably made a dedicated channel by now)*
+<br>**the_borg:** `⸘can you not observe that we are busy gossiping about more important things than you puny_human‽`
 
 ## schedule tasks for:
 * [x] `number(N).`
