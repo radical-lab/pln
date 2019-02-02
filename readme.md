@@ -1,5 +1,5 @@
-# pln
-prolog life planner
+# rpg
+radical planner
 
 poker player predictions
 <br>gamification
