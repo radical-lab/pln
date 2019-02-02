@@ -3,7 +3,7 @@
 <br>liars goto hell! (unless you spell the magic words (…<!--outliars can also spell them paradoxically which is cancellative-->…))
 <br>score productivity points while competing against yourself for the sake of self-improvement
 <br>goto hell iff negativity
-<br>goto limbo iff empty
+<br>goto limbo iff emptivity
 <br>goto heaven iff positivity*
 
 ## usage
