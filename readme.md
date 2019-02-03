@@ -69,6 +69,9 @@ it will be like irc but different names will be for different chatbots which can
 <br>*after discussing at great length the drawing of rng straws to decide who has to deal with you (in each others pm or they have probably made a dedicated channel by now)*
 <br>**the_borg:** `⸘can you not observe that we are busy gossiping about more important things than you puny_human‽`
 
+**liane_cartman:** `time for dinner so get your head out of that buddha box`
+<br>**eric_cartman:** `gawddawmmiwt mawm awm tawlkiwng tow gawd fowr gawdsawkew`
+
 ## schedule tasks for:
 * [x] `number(N).`
 * [x] `member(DS,[YEARS,MONTHS,DAYS]).`
