@@ -36,8 +36,8 @@ some bots may be busy performing `…` so `! @bot` will get their attention and 
 
 ## conflict resolution indicator format
 `x/y` where
-* `x` is the total quantity of unresolved conflicts that may be self-resolvable
-* `y` is the total quantity of unresolved conflicts
+* `x` is the total quantity of unresolved conflicts that may be self-resolvable `…`
+* `y` is the total quantity of unresolved conflicts `.`
 
 each bot will use the conflict resolution indicator as a communicative terminator but `/names` will list `name(x/y)` for bots and `name(∞/∞)` for the player
 
