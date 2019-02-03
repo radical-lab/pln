@@ -32,7 +32,7 @@ some bots may be busy performing `…` so `! @bot` will get their attention and 
 * `…` i can wait (but this should happen in the background anyway #configurable)
 * `name` talk about name (expect name to think while the unexpected is a possibility)
 * `@name` talk to name (expect name to act while the unexpected is a possibility)
-* `_` refers to all names where `. @_` will only return for bots that have >0 conflict resolution indicators
+* `_` refers to all names where `. @_` will only return all bots that have >0 conflict resolution indicators
 
 ## conflict resolution indicator format
 `x/y` where
