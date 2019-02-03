@@ -81,6 +81,7 @@ it will be like irc but different names will be for different chatbots which can
 * [ ] every `NTH` weekday of the month starting at `date/9`
 * [ ] every `NTH` day of the week starting at `date/9` **is** every `=(N,7)` `=(DS,DAYS)` starting at `date/9`
 * [ ] some due dates can be scheduled earlier than due; due dates versus dead lines
+* [ ] date ranges
 
 ## life rules:
 * [ ] negative weather predictions + public holidays = stock up on supplies depending on the expected extremity/duration of the predictions
