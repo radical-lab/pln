@@ -5,9 +5,10 @@
 <br>score productivity points while competing against yourself for the sake of self-improvement
 <br>goto hell iff negativity
 <br>goto limbo iff emptivity
-<br>goto heaven iff positivity*
+<br>goto heaven iff positivity
 <br>
 <br>optimise your life
+*
 
 ## usage
 ### local
