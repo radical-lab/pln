@@ -15,7 +15,7 @@
 ### remote
 * connect to irc
 * join the channel
-* transfer your cartridge through a file hosting service like pastebin; as long as they do not mess with the formatting it should be generalised
+* transfer your cartridge through a file hosting service like pastebin; as long as they do not mess with the formatting (no syntax highlighting) it should be generalised to any file hosting service
 * your rpg journey begins in a pm
 
 ## supported languages
