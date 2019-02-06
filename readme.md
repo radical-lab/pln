@@ -5,7 +5,7 @@
 	* *goto hell iff negativity*
 	* *goto limbo iff emptivity*
 	* *goto heaven iff positivity*
-* *optimise your life*
+* (…<!--*optimise your life*
 * *live a life well*
 * *your life well lived*
 * *your life in a cartridge*
@@ -20,7 +20,7 @@
 	* **rpg: you only live once**
 	* **rpg: you oughta look out**
 * **rpg 2: reincarnation**
-* **radical planner g: it is aversion**
+* **radical planner g: it is aversion**-->…)*
 
 ## usage
 ### local
