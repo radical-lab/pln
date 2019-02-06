@@ -10,7 +10,13 @@
 <br>have fun while optimising your life
 
 ## usage
+### local
 `rpg roy:a_life_well_lived.cartridge`
+### remote
+* connect to irc
+* join the channel
+* transfer your cartridge through a file hosting service like pastebin; as long as they do not mess with the formatting it should be generalised
+* your rpg journey begins in a pm
 
 ## supported languages
 * [ ] shyamskrit
