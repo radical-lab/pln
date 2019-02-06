@@ -1,13 +1,15 @@
 # √ radical planner g (it is not aversion)
-*can you satisfy your <s>goals</s> gods?
-<br>liars goto hell! (unless you spell the magic words (…<!--outliars can also spell them paradoxically which is cancellative-->…))
-<br>
-<br>score productivity points while competing against yourself for the sake of self-improvement
-<br>goto hell iff negativity
-<br>goto limbo iff emptivity
-<br>goto heaven iff positivity
-<br>
-<br>optimise your life*
+* *can you satisfy your <s>goals</s> gods?*
+	* *liars goto hell! (unless you spell the magic words (…<!--outliars can also spell them paradoxically which is cancellative-->…))*
+* *score productivity points while competing against yourself for the sake of self-improvement*
+	* *goto hell iff negativity*
+	* *goto limbo iff emptivity*
+	* *goto heaven iff positivity*
+* *optimise your life*
+* *live a life well*
+* *your life well lived*
+* *your life in a cartridge*
+* *life is a cartridge just waiting to be played*
 
 ## usage
 ### local
