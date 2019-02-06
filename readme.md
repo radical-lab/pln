@@ -31,7 +31,7 @@
 ### remote
 * connect to irc
 * join the channel
-* [Shyamscript ethics](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/#yuser-license)
+* [Shyamscript ethical contractual user rights involving technological you](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/#yuser-license)
 * transfer your cartridge through a file hosting service like pastebin; as long as they do not mess with the formatting (no syntax highlighting) it should be generalised to any file hosting service
 	* your cartridge should be blank; only containing npc configurations
 * your rpg journey begins in a pm
