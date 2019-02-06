@@ -90,6 +90,8 @@ it will be like irc but different names will be for different chatbots which can
 **liane_cartman:** `time for dinner so get your head out of that buddha box`
 <br>**eric_cartman:** `gawddawmmiwt mawm awm tawlkiwng tow gawd fowr gawdsawkew`
 
+dnd style replacing gods with a wizard (you shall not pass unless it is planned!) and a hobbitses (food glorious food!) and a garden gnome (socks where are your socks?) and a dragon (treasure it while you can!) and other peoples
+
 ## schedule tasks for:
 * [x] `number(N).`
 * [x] `member(DS,[YEARS,MONTHS,DAYS]).`
