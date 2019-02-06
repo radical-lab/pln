@@ -60,11 +60,13 @@ some bots may be busy performing `…` so `! @bot` will get their attention and 
 each bot will use the conflict resolution indicator as a communicative terminator but `/names` will list `name(x/y)` for bots and `name(∞/∞)` for the player
 
 ## cartridges
-* characters
-	* names
-	* styles; machine learned from stories
-* preferences
-* statistics
+* configuration
+	* characters
+		* names
+		* styles; machine learned from stories
+	* preferences
+* plans
+* stats
 
 ---
 ---
