@@ -13,8 +13,8 @@
 * **rpg: a life well lived**
 * **radical planner g: you are not in control!**
 * **rpg: yolo**
-* **rpg: you only live once**
-* **rpg: you oughta look out**
+	* **rpg: you only live once**
+	* **rpg: you oughta look out**
 * **rpg 2: reincarnation**
 * **radical planner g: it is aversion**
 
