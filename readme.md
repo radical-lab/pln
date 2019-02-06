@@ -9,8 +9,11 @@
 * *live a life well*
 * *your life well lived*
 * *your life in a cartridge*
-* *cartridged life*
 * *life is a cartridge just waiting to be played*
+* *cartridged life*
+* *cartridge life*
+* *a cartridge full of (fake) life*
+* *fake life*
 * **rpg: a life well lived**
 * **radical planner g: you are not in control!**
 * **rpg: yolo**
