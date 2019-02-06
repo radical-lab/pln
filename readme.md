@@ -7,8 +7,7 @@
 <br>goto limbo iff emptivity
 <br>goto heaven iff positivity
 <br>
-<br>optimise your life
-*
+<br>optimise your life*
 
 ## usage
 ### local
