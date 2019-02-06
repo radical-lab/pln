@@ -104,6 +104,8 @@ dnd style replacing gods with a wizard (you shall not pass unless it is planned!
 
 wild conflict resolution indicator appeared!
 
+you should be able to kill off characters and practice your human resource skills while reviewing fawlty applicants
+
 ## schedule tasks for:
 * [x] `number(N).`
 * [x] `member(DS,[YEARS,MONTHS,DAYS]).`
