@@ -2,7 +2,7 @@
 *can you satisfy your <s>goals</s> gods?
 <br>liars goto hell! (unless you spell the magic words (…<!--outliars can also spell them paradoxically which is cancellative-->…))
 <br>
-<br>score productivity points while competing against yourself for the sake of optimal self-improvement
+<br>score productivity points while competing against yourself for the sake of self-improvement
 <br>goto hell iff negativity
 <br>goto limbo iff emptivity
 <br>goto heaven iff positivity
