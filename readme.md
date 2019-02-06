@@ -92,6 +92,8 @@ it will be like irc but different names will be for different chatbots which can
 
 dnd style replacing gods with a wizard (you shall not pass unless it is planned!) and a hobbitses (food glorious food!) and a house elf (socks! where are your socks?) and a garden gnome (got weed?) and a dragon (treasure it while you can!) and a ghost (tell them while you can!) and a human historian/mathematician (did you know?) and other peoples
 
+wild conflict resolution indicator appeared!
+
 ## schedule tasks for:
 * [x] `number(N).`
 * [x] `member(DS,[YEARS,MONTHS,DAYS]).`
