@@ -17,7 +17,7 @@
 * *a cartridge full of (fake) life*
 * *fake life*
 * **rpg: a life well lived**
-* **radical planner g: you are not in control!**
+* **radical planner g: you are not in control!** http://ideas.wikia.com/wiki/File:Homer_in_Sector_7G.jpg
 * **rpg: yolo**
 	* **rpg: you only live once**
 	* **rpg: you oughta look out**
