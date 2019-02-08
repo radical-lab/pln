@@ -112,7 +112,7 @@ it will be like irc but different names will be for different chatbots which can
 **liane_cartman:** `time for dinner so get your head out of that buddha box`
 <br>**eric_cartman:** `gawddawmmiwt mawm awm tawlkiwng tow gawd fowr gawdsawkew`
 
-dnd style replacing gods with a wizard (you shall not pass unless it is planned!) and a hobbitses (food glorious food!) and a house elf (socks! where are your socks?) and a garden gnome (got weed?) and a dragon (treasure it while you can!) and a ghost (tell them while you can!) and a human historian/mathematician (did you know?..) and a teddy bear (tell me your problem.) and a rubber ducky (tell me your problem.) and a dog (give me your homework!) and others
+dnd style replacing gods with a wizard (you shall not pass unless it is planned!) and a hobbitses (food glorious food!) and a house elf (socks! where are your socks?) and a garden gnome (got weed?) and a dragon (treasure it while you can!) and a ghost (tell them while you can!) and a human historian/mathematician (did you know?..) and a human language prescriptionist (english comes from england so you should use english english and not some illiterate dialect!) and a teddy bear (tell me your problem.) and a rubber ducky (tell me your problem.) and a dog (give me your homework!) and others
 
 wild conflict resolution indicator appeared!
 
