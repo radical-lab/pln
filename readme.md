@@ -37,7 +37,7 @@
 * [Shyamscripts' Ethically Contractual User Rights Involving Technological You](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/#yuser-license)
 * transfer your cartridge through a file hosting service like pastebin; as long as they do not mess with the formatting (no syntax highlighting) it should be generalised to any file hosting service
 	* your cartridge should be blank; only containing npc configurations
-* your rpg journey begins in a pm
+* your rpg journey begins in a pm; channels can be password protected
 
 ## supported languages
 * [ ] shyamskrit
