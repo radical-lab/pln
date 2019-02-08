@@ -118,7 +118,8 @@ you should be able to kill off characters and practice your human resource skill
 * incompetence
 * attitude problems and behavioural issues like depression
 * uncooperative disobedience and insubordination like malicious plotting (the player may just be paranoid)
-<br>bots should be configurable
+
+bots should be configurable
 * optimal bots will probably be slower
 * suboptimal bots will probably be faster but definitely fawlty
 
