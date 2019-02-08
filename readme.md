@@ -5,6 +5,7 @@
 	* *goto hell iff negativity*
 	* *goto limbo iff emptivity*
 	* *goto heaven iff positivity*
+* *if you die irl then you die in the game*
 * (……)
 <!--
 * *optimise your life*
