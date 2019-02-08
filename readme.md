@@ -116,7 +116,8 @@ wild conflict resolution indicator appeared!
 
 you should be able to kill off characters and practice your human resource skills while reviewing fawlty applicants
 * incompetence
-* attitude problems and behavioural issues like depression
+* attitude problems like sarcasm
+* behavioural issues like depression
 * uncooperative disobedience and insubordination like malicious plotting (the player may just be paranoid)
 
 bots should be configurable
