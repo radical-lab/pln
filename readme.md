@@ -115,6 +115,12 @@ dnd style replacing gods with a wizard (you shall not pass unless it is planned!
 wild conflict resolution indicator appeared!
 
 you should be able to kill off characters and practice your human resource skills while reviewing fawlty applicants
+* incompetence
+* attitude problems and behavioural issues like depression
+* uncooperative disobedience and insubordination like malicious plotting (the player may just be paranoid)
+bots should be configurable
+* optimal bots will probably be slower
+* suboptimal bots will probably be faster but definitely fawlty
 
 ## schedule tasks for:
 * [x] `number(N).`
