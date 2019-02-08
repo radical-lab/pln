@@ -8,6 +8,8 @@
 * *if you die irl then you die in the game (unless your identity is stolen)*
 * (……)
 <!--
+* *productivity gods*
+* *gods of productivity*
 * *optimise your life*
 * *live a life well*
 * *your life well lived*
