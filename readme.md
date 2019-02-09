@@ -75,7 +75,7 @@ each bot will use the conflict resolution indicator as a communicative terminato
 * configuration
 	* characters
 		* names
-		* colours; ansi escape codes
+		* [colours](https://en.wikipedia.org/wiki/ANSI_escape_code)
 		* races; machine learned writing styles from stories
 		* classes; specialised areas of expertise
 	* preferences
