@@ -5,9 +5,10 @@
 	* *goto hell iff negativity*
 	* *goto limbo iff emptivity*
 	* *goto heaven iff positivity*
-* *if you die irl then you die in the game (unless your identity is stolen)*
+* *if you die irl then you die in the game (unless someone steals your identity)*
 * (……)
 <!--
+* *if you die irl then you die in the game (unless your identity is stolen)*
 * *productivity gods*
 * *gods of productivity*
 * *optimise your life*
