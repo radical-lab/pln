@@ -52,6 +52,7 @@
 * [ ] [norse](https://en.wikipedia.org/wiki/Vikings)
 * [ ] [arabic](https://en.wikipedia.org/wiki/Book_of_Ingenious_Devices)
 * [ ] hebrew
+* [ ] roman
 * [ ] [new](https://en.wikipedia.org/wiki/Template:Constructed_languages)
 * [ ] [world](https://en.wikipedia.org/wiki/World_language#Living_world_languages)
 * [ ] [order](https://en.wikipedia.org/wiki/Category:Languages_by_word_order)
